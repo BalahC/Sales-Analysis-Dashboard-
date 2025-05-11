@@ -26,33 +26,9 @@ This project focuses on analyzing sales data from Fecon to uncover performance t
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+ <b>The project began with importing raw sales data in CSV format. Initial steps involved exploring the dataset structure, identifying missing values, and correcting inconsistencies. I standardized column names, converted data types (e.g., dates and currencies), and engineered new features like monthly sales and product categories. Using Python, I aggregated data to analyze regional performance, product-level trends, and customer segments. The final step involved creating visualizations that clearly communicate the business insights derived from the cleaned dataset.</b>
+
+
 
 <!--
  ```diff
