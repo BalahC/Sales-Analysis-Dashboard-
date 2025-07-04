@@ -1,11 +1,12 @@
-# Sales Analysis.
+# Informative Sales Analysis.
 <h1>Fecom's - Sales Dashboard</h1>
 
 
 <h2>Description</h2>
 This project focuses on analyzing sales data from Fecon to uncover performance trends, identify key sales drivers, and present actionable insights. Starting from raw, unstructured datasets, I performed data cleaning, transformation, and visualization to support strategic business decisions.
-<br />
+<br />.
 
+![Fecom's dashboard](https://github.com/BalahC/Sales-Analysis-Dashboard-/blob/main/Machine%20Learning%2C%20Python%2C%20SQL%2C%20Data%20Analysis%2C%20Statistics%2C%20Predictive%20Modeling%2C%20Data%20Visualization%2C%20Deep%20Learning%2C%20NLP%2C%20Big%20Data%2C%20AI%2C%20Data%20Mining%2C%20R%2C%20Tableau%2C%20Power%20BI%2C%20Feature%20Engineering%2C%20Time%20Series.png)
 
 <h2>Languages and Utilities Used</h2>
 
